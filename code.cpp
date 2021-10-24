@@ -1,5 +1,6 @@
 // C++ program for Merge Sort
 //Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
+// complexcity: Average complexity: n*log(n) //
 #include <iostream>
 using namespace std;
 
