@@ -25,7 +25,7 @@ void merge(int array[], int const left, int const mid, int const right)
 	auto indexOfSubArrayOne = 0, // Initial index of first sub-array
 		indexOfSubArrayTwo = 0; // Initial index of second sub-array
 	int indexOfMergedArray = left; // Initial index of merged array
-
+// In computer science, merge sort is an efficient, general-purpose, and comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output
 	// Merge the temp arrays back into array[left..right]
 	while (indexOfSubArrayOne < subArrayOne && indexOfSubArrayTwo < subArrayTwo) {
 		if (leftArray[indexOfSubArrayOne] <= rightArray[indexOfSubArrayTwo]) {
