@@ -1,4 +1,5 @@
 // C++ program for Merge Sort
+//Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, ...
 //Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
 // complexcity: Average complexity: n*log(n) //
 #include <iostream>
