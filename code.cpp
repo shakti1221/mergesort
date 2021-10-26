@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 // it merges two arrays.
-// Merges two subarrays of array[].
+// Merges two subarrays of an array[].
 // First subarray is arr[begin..mid]
 // Second subarray is arr[mid+1..end]
 void merge(int array[], int const left, int const mid, int const right)
