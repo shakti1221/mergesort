@@ -1,4 +1,5 @@
 // C++ program for Merge Sort
+//The merge() function is used for merging two halves. The merge(arr, l, m, r) is a key process that assumes that arr[l..m] and arr[m+1..r] 
 //Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
 // complexcity: Average complexity: n*log(n) //
 #include <iostream>
